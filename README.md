@@ -3,7 +3,7 @@
 🎓 AI & Data Science Student  
 💡 Passionate about Machine Learning, Computer Vision & NLP  
 📍 Sana’a, Yemen  
-🌐 Portfolio: https://hussein-adel.netlify.app/
+🌐 Portfolio: https://husseinadeletlifyetlifyetlifydel.netlify.app/
 
 ---
 
@@ -104,7 +104,7 @@ AWS | Docker | Git | CI/CD | Oracle APEX
 
 📧 Email: hussein.adel.dev@email.com  
 🔗 LinkedIn: https://linkedin.com/in/hussein-adel-ali-444863364  
-🌐 Portfolio: https://hussein-adel.netlify.app/
+🌐 Portfolio: https://husseini.netlify.app/
 
 ---
 
